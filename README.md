@@ -161,7 +161,31 @@ phpMyAdmin
 
 
 📂 Project Structure
-meeting-scheduling-system/│├── frontend/│   ├── css/│   │   └── style.css│   ││   ├── js/│   │   ├── login.js│   │   ├── student_dashboard.js│   │   ├── faculty_dashboard.js│   │   └── meeting_request.js│   ││   ├── login.html│   ├── student_dashboard.html│   ├── faculty_dashboard.html│   └── meeting_request.html│├── backend/│   ├── db.php│   ├── login.php│   ├── create_meeting.php│   ├── fetch_meetings.php│   └── update_meeting.php│└── README.md
+meeting-scheduling-system/
+│
+├── frontend/
+│   ├── css/
+│   │   └── style.css
+│   │
+│   ├── js/
+│   │   ├── login.js
+│   │   ├── student_dashboard.js
+│   │   ├── faculty_dashboard.js
+│   │   └── meeting_request.js
+│   │
+│   ├── login.html
+│   ├── student_dashboard.html
+│   ├── faculty_dashboard.html
+│   └── meeting_request.html
+│
+├── backend/
+│   ├── db.php
+│   ├── login.php
+│   ├── create_meeting.php
+│   ├── fetch_meetings.php
+│   └── update_meeting.php
+│
+└── README.md
 
 🗄️ Database Design
 Users Table
